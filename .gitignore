@@ -1,0 +1,11 @@
+# Ignore everything in repository root 
+/*
+
+# Files to not ignore
+!/.gitignore
+!/README.md
+!/LICENSE.md
+
+# Folder to not ignore
+!/Assets/
+!/ProjectSettings/
